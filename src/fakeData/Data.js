@@ -1,0 +1,12 @@
+export default playerData=[{"id":1,"name":"Shakib","salary":13116155,"image":"http://t3.gstatic.com/images?q=tbn:ANd9GcSnn27coD_1wIFzntVYPE0JLeC3nuRD0TBfat56lur6gQbHFdUo0iqfQUj6sUHv"},
+{"id":2,"name":"Mushfiq","salary":28344353,"image":"http://t2.gstatic.com/images?q=tbn:ANd9GcTfcZjB4G7brLc0WCJTrGZg_zLhZmAvbKaflM7PLyprELSo7Zfgx4Ltn8Oa4S_i"},
+{"id":3,"name":"Tamim","salary":2885101,"image":"http://t2.gstatic.com/images?q=tbn:ANd9GcQxNsVq2juC7g3XiQ4avaKKF3IFGd5ziD1gpARMRFU8dFfLefPU9O3NajEWdsWnF"},
+{"id":4,"name":"Mustafiz","salary":41926588,"image":"http://t0.gstatic.com/images?q=tbn:ANd9GcTl3uN5WsH81o0UU0iP7KS53zDvkZlX4IEsrCChcZJTunDJX_978F-u6Uf5KzJu"},
+{"id":5,"name":"Mashrafe","salary":30868262,"image":"http://t3.gstatic.com/images?q=tbn:ANd9GcTUita0Dueq42YemMDjR5N_-zqVnytWS_Yh2uFatPvHCDq2H0_9XuIT0nRxVN-T"},
+{"id":6,"name":"Mehidy","salary":13357792,"image":"http://t0.gstatic.com/images?q=tbn:ANd9GcQw5ZUiF99pdSDIVStr0iERKz1hPs_8dZjmmomTd1BQn7ewBTFU0Z2_q-z1yAEK"},
+{"id":7,"name":"Mahmudullah","salary":22418503,"image":"http://t3.gstatic.com/images?q=tbn:ANd9GcQCc4R-JU_z5fPf-0LeFWNDwiF88Ru1_5YiwFM4HC4mN5T8tLNAbtOiF7Y5WggT"},
+{"id":8,"name":"Rubel","salary":35781917,"image":"http://t3.gstatic.com/images?q=tbn:ANd9GcQli1OUMiPbk2oxANku7DJm2-02-GnZGv5zCQWC0Fh4NQe_HiWc_mSJQYfv5pjk"},
+{"id":9,"name":"Sabbir","salary":24450443,"image":"http://t0.gstatic.com/images?q=tbn:ANd9GcRYFNEY6NVwpX4RR7v3GzV6q5mr_uvz6FUSWyBBlqRvzDcgjOqgKZMtjb22q5S_"},
+{"id":10,"name":"Shaifuddin","salary":5235756,"image":"http://t1.gstatic.com/images?q=tbn:ANd9GcSDGpH1jxgDuT8VKBfyiYvc4FCRWHFckXv3FiT2IEun58X8arl9H2Plrdd0U3fy"},
+{"id":11,"name":"Mosaddek","salary":45237946,"image":"http://t1.gstatic.com/images?q=tbn:ANd9GcQQf0Kd21k8QOIANcPSxO3m3KpDd_l4hulrssEVPeMe6KOojSpp7Nrn1iCLDXBN"},
+{"id":12,"name":"Jayed","salary":49636637,"image":"http://t1.gstatic.com/images?q=tbn:ANd9GcQsR0Vddo2c4yRSY_VoArTo4CcSKseuRzcvbdbROFDAUROTt2w4qX33H39UFCjr"}]
